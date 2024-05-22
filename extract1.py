@@ -5,7 +5,7 @@ from openpyxl.utils import get_column_letter
 import os
 import re
 import glob2
-# -------- Mọi thứ đều có công sức từ mọi người ở FOE-BAV, hoàn thiện và phát triển nó -----
+# -------- Mọi thứ đều có công sức từ mọi người ở FOE-BAV, hoàn thiện và phát triển nó thật tốt -----
 # Contact trao đổi : dangnguyen110900@gmail.com
 ten_file = r'MAP OFP 12052023-09052024.xlsx'
 
